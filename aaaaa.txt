@@ -1,0 +1,7 @@
+- composer require laravel/ui -> descargar paquetes para descargar vue
+- php artisan ui vue
+- npm install
+- npm run dev
+- php artisan ui bootstrap -> descargar boostrap
+- npm install
+- npm run dev

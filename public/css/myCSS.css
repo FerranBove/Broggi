@@ -1,0 +1,71 @@
+/* https: //fonts.google.com/specimen/Montserrat */
+@font-face {
+    font-family: "Montserrat-Black";
+    src: url("typografi\Montserrat-Black") format("truetype");
+    font-weight: normal;
+    /* https: //cybmeta.com/font-face-como-utilizar-cualquier-fuentetipografia-en-tu-web */
+}
+
+.Montserrat-Black {
+    font-family: "Montserrat-Black";
+    color: black;
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("typografi\Montserrat-Regular") format("truetype");
+    font-weight: normal;
+    /* https: //cybmeta.com/font-face-como-utilizar-cualquier-fuentetipografia-en-tu-web */
+}
+
+.Montserrat-Regular {
+    font-family: "Montserrat-Regular";
+    color: black;
+}
+
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url("typografi\Montserrat-Light") format("truetype");
+    font-weight: normal;
+    /* https: //cybmeta.com/font-face-como-utilizar-cualquier-fuentetipografia-en-tu-web */
+}
+
+.Montserrat-Light {
+    font-family: "Montserrat-Light";
+    color: black;
+}
+
+/* -----------------------------------OPEN SANS------------------------------------------ */
+/* https: //fonts.google.com/specimen/Open+Sans */
+@font-face {
+    font-family: "OS-Regular";
+    src: url("typografi\OpenSans-Regular") format("truetype");
+    font-weight: normal;
+}
+
+.OS-Regular {
+    font-family: "OS-Regular";
+    color: black;
+}
+
+@font-face {
+    font-family: "OS-Light";
+    src: url("typografi\OpenSans-Light") format("truetype");
+    font-weight: normal;
+}
+
+.OS-Light {
+    font-family: "OS-Light";
+    color: black;
+}
+
+@font-face {
+    font-family: "OS-SemiBold";
+    src: url("typografi\OpenSans-SemiBold") format("truetype");
+    font-weight: normal;
+}
+
+.OS-SemiBold {
+    font-family: "OS-SemiBold";
+    color: black;
+}
